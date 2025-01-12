@@ -31,3 +31,4 @@ _ReSharper*/
 .idea/
 #Nuget packages folder
 packages/
+/__pycache__/main.cpython-313.pyc
