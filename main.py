@@ -1,6 +1,6 @@
-from typing import Union
-
 from fastapi import FastAPI
+from typing import Union
+from sqlalchemy.orm import Session
 
 app = FastAPI()
 
