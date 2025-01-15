@@ -1,2 +1,5 @@
+from database import Base
+from sqlalchemy import Column, String
+
 class Genre:
-    name:str
+    name:Column(String)
